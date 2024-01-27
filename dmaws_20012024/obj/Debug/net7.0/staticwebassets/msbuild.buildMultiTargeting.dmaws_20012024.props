@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dmaws_20012024.props" />
+</Project>
